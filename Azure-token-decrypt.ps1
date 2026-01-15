@@ -1,4 +1,5 @@
-# Grab tokens at either location
+# This script is hosted at https://github.com/Robiinn/Azure-token-decrypt
+# Grabs Azure cached tokens at both locations:
 ## C:\Users\{user}\AppData\Local\Microsoft\IdentityCache
 ## C:\Users\{user}\AppData\Local\Microsoft\TokenBroker
 
